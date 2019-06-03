@@ -196,6 +196,14 @@ header .logo {
   margin: 28px 0 0 91px;
 }
 
+@media (max-width: 800px){
+    .logo{
+      border: 2px solid red;
+      padding-left: 25%;
+      padding-right: 5px;
+    }
+}
+
 /* Call To Action (CTA) Styles */
 
 .cta {
